@@ -188,7 +188,7 @@ const App = () => {
     <PaperProvider>
 
       <SafeAreaView>
-        <StatusBar barStyle='light-content' />
+        <StatusBar barStyle='dark-content' backgroundColor={"white"} />
         <View style={styles.top}>
           <Text style={styles.title}>SUDOKU SOLVER</Text>
           <MaterialCommunityIcons onPress={provideHint} name="lightbulb-on-outline" size={30} color="black" />
