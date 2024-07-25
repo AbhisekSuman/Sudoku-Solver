@@ -100,5 +100,5 @@ If you have any questions or feedback, feel free to reach out.
 Feel free to adjust any sections or add any additional details specific to your implementation.
 ## Demo
 
-Insert gif or link to demo
+![image](https://github.com/AbhisekSuman/Sudoku-Solver/blob/master/Demo.jpg)
 
