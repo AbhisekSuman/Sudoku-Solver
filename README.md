@@ -87,17 +87,11 @@ sudoku-solver-app/
 └── ...
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach out.
 
 ---
-
-Feel free to adjust any sections or add any additional details specific to your implementation.
 ## Demo
 
 ![image](https://github.com/AbhisekSuman/Sudoku-Solver/blob/master/Demo.jpg)
